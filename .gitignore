@@ -10,3 +10,4 @@ wheels/
 .venv
 **/.env
 /api/
+**/hello.py
